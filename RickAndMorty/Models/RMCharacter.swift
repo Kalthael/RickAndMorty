@@ -6,7 +6,6 @@
 //
 
 import Foundation
-<<<<<<< HEAD
 
 struct RMCharacter: Codable {
     let id: Int
@@ -22,5 +21,3 @@ struct RMCharacter: Codable {
     let url: String
     let created: String
 }
-=======
->>>>>>> 80d98f0e4edc2dd92add607ad059a2e59543623f

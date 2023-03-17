@@ -6,7 +6,6 @@
 //
 
 import Foundation
-<<<<<<< HEAD
 
 struct RMLocation: Codable {
     let id: Int
@@ -17,5 +16,3 @@ struct RMLocation: Codable {
     let url: String
     let created: String
 }
-=======
->>>>>>> 80d98f0e4edc2dd92add607ad059a2e59543623f
